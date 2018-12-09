@@ -26,7 +26,7 @@ $(document).scroll(function() {
 
 
 var things = [
-    "progamming a better brain",
+    "programming a better brain",
 ];
 var NUM_THINGS = things.length;
 
